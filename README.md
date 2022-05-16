@@ -1,6 +1,6 @@
 # MechaCar_Statistical_Analysis - Module 15 Challenge 
 
-## 4 Deliverable:
+## 4 Deliverables:
     1. Linear Regression to Predict MPG
     2. Summary Statistics on Suspension Coils
     3. T-Test on Suspension Coils
@@ -72,17 +72,17 @@
 
 
 
-[screenshot of MechaCar_mpg.csv](./Deliverable_1.PNG)
-[screenshot of import for Suspension_Coil.csv](./Deliverable_2-import.PNG)
-[screenshot of Deliverable 2 code](./Deliverable_2-code.PNG)
-[screenshot of Deliverable 2 "total_summary"](./Deliverable_2-totalSummary-output.PNG)
-[screenshot of Deliverable 2 "lot_summary"](./Deliverable_2-lotSummary-output.PNG)
-[screenshot of Deliverable 3 Suspension_Coil.csv](./Deliverable_3-poptable.PNG)
-[screenshot of Deliverable 3 sample_table](./Deliverable_3-randomsampletable.PNG)
-[screenshot of Deliverable 3 random sample t-test](./Deliverable_3-1.PNG)
-[screenshot of Deliverable 3 Lot1 t-test](./Deliverable_3-2.PNG)
-[screenshot of Deliverable 3 Lot2 t-test](./Deliverable_3-3.PNG)
-[screenshot of Deliverable 3 Lot3 t-test](./Deliverable_3-4.PNG)
+![screenshot of MechaCar_mpg.csv](./Deliverable_1.PNG)
+![screenshot of import for Suspension_Coil.csv](./Deliverable_2-import.PNG)
+![screenshot of Deliverable 2 code](./Deliverable_2-code.PNG)
+![screenshot of Deliverable 2 "total_summary"](./Deliverable_2-totalSummary-output.PNG)
+![screenshot of Deliverable 2 "lot_summary"](./Deliverable_2-lotSummary-output.PNG)
+![screenshot of Deliverable 3 Suspension_Coil.csv](./Deliverable_3-poptable.PNG)
+![screenshot of Deliverable 3 sample_table](./Deliverable_3-randomsampletable.PNG)
+![screenshot of Deliverable 3 random sample t-test](./Deliverable_3-1.PNG)
+![screenshot of Deliverable 3 Lot1 t-test](./Deliverable_3-2.PNG)
+![screenshot of Deliverable 3 Lot2 t-test](./Deliverable_3-3.PNG)
+![screenshot of Deliverable 3 Lot3 t-test](./Deliverable_3-4.PNG)
 
 
 
